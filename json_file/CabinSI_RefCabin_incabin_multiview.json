@@ -1,0 +1,1720 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the apple behind-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1212, 813, 1313, 886], \"image_id\": 0}, {\"bbox_2d\": [770, 1090, 910, 1230], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_0/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_0/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_0/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the tissue paper to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1368, 897, 1441, 970], \"image_id\": 0}, {\"bbox_2d\": [1234, 1241, 1408, 1295], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_1/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_1/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_1/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1285, 374, 2303, 1295], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_10/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_10/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1698, 316, 2011, 729], \"image_id\": 0}, {\"bbox_2d\": [1911, 292, 2303, 934], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_100/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_100/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water cup to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1352, 901, 1436, 1068], \"image_id\": 0}, {\"bbox_2d\": [1385, 1165, 1503, 1295], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_101/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_101/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_101/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1368, 475, 1654, 1044], \"image_id\": 0}, {\"bbox_2d\": [1396, 439, 1994, 1295], \"image_id\": 1}, {\"bbox_2d\": [0, 545, 782, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_11/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_11/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_11/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water cup to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1307, 942, 1419, 1065], \"image_id\": 0}, {\"bbox_2d\": [1380, 1206, 1491, 1295], \"image_id\": 1}, {\"bbox_2d\": [726, 1167, 888, 1284], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_12/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_12/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_12/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the fruit behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1178, 672, 1262, 756], \"image_id\": 0}, {\"bbox_2d\": [1240, 921, 1380, 1044], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_13/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_13/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_13/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the computer to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [27, 1128, 334, 1295], \"image_id\": 0}, {\"bbox_2d\": [1296, 815, 1687, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_14/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_14/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_14/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the computer in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [502, 1202, 809, 1295], \"image_id\": 1}, {\"bbox_2d\": [1313, 817, 1687, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_15/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_15/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_15/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the sitting person in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [0, 324, 1039, 1295], \"image_id\": 0}, {\"bbox_2d\": [1340, 290, 1570, 413], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_16/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_16/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_16/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the sitting person behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [916, 439, 1173, 1092], \"image_id\": 0}, {\"bbox_2d\": [474, 450, 1111, 1295], \"image_id\": 1}, {\"bbox_2d\": [1083, 746, 2207, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_17/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_17/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_17/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the umbrella to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1156, 871, 1352, 994], \"image_id\": 0}, {\"bbox_2d\": [1067, 1135, 1424, 1275], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_18/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_18/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_18/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [904, 411, 1195, 774], \"image_id\": 0}, {\"bbox_2d\": [446, 406, 1139, 1295], \"image_id\": 1}, {\"bbox_2d\": [1128, 657, 2291, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_19/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_19/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_19/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the seat to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1430, 397, 1732, 1027], \"image_id\": 0}, {\"bbox_2d\": [312, 400, 849, 1031], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_2/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_2/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window behind-right of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [508, 292, 804, 711], \"image_id\": 0}, {\"bbox_2d\": [0, 346, 468, 999], \"image_id\": 1}, {\"bbox_2d\": [1793, 279, 2303, 1150], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_20/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_20/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_20/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [0, 186, 480, 778], \"image_id\": 0}, {\"bbox_2d\": [1491, 235, 1681, 569], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_21/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_21/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_21/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the power bank in front-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1178, 1145, 1307, 1251], \"image_id\": 0}, {\"bbox_2d\": [983, 666, 1072, 750], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_22/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_22/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_22/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1340, 477, 1642, 1040], \"image_id\": 0}, {\"bbox_2d\": [1363, 439, 1944, 1295], \"image_id\": 1}, {\"bbox_2d\": [0, 540, 771, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_23/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_23/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_23/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [468, 251, 742, 692], \"image_id\": 0}, {\"bbox_2d\": [0, 368, 614, 1089], \"image_id\": 1}, {\"bbox_2d\": [1687, 190, 2303, 1005], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_24/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_24/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_24/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window behind-right of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [591, 318, 698, 424], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_25/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_25/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_25/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1257, 350, 2303, 1288], \"image_id\": 0}, {\"bbox_2d\": [586, 186, 1039, 716], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_26/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_26/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_26/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the snacks to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [815, 1161, 1083, 1262], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_27/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_27/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_27/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the passenger behind-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1318, 475, 1642, 988], \"image_id\": 0}, {\"bbox_2d\": [1346, 434, 1950, 1295], \"image_id\": 1}, {\"bbox_2d\": [0, 506, 636, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_28/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_28/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_28/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1760, 1126, 1922, 1237], \"image_id\": 1}, {\"bbox_2d\": [267, 1031, 385, 1176], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_29/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_29/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_29/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [759, 1228, 882, 1295], \"image_id\": 1}, {\"bbox_2d\": [1335, 1133, 1441, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_3/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_3/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_3/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [619, 947, 776, 1036], \"image_id\": 1}, {\"bbox_2d\": [1514, 986, 1698, 1243], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_30/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_30/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_30/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the passenger's phone to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [306, 956, 385, 1141], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_31/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_31/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_31/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [0, 170, 524, 906], \"image_id\": 0}, {\"bbox_2d\": [1480, 238, 1681, 573], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_32/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_32/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_32/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water bottle to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1424, 960, 1536, 1200], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_33/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_33/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_33/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the earphones behind-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [329, 1148, 591, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_34/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_34/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_34/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the backpack to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1050, 519, 1368, 793], \"image_id\": 0}, {\"bbox_2d\": [1083, 649, 1558, 1090], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_35/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_35/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_35/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1620, 261, 1933, 601], \"image_id\": 0}, {\"bbox_2d\": [0, 253, 189, 728], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_36/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_36/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the fruit behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1190, 787, 1285, 871], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_37/inside_1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the fruit closest to me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1206, 787, 1279, 860], \"image_id\": 0}, {\"bbox_2d\": [1033, 1198, 1190, 1295], \"image_id\": 1}, {\"bbox_2d\": [804, 1176, 938, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_38/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_38/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_38/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the clothes behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [955, 514, 1206, 916], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_39/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_39/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water cup closest to me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1206, 960, 1352, 1033], \"image_id\": 0}, {\"bbox_2d\": [1134, 1152, 1385, 1258], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_4/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_4/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_4/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the fruit in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1849, 1230, 1978, 1295], \"image_id\": 1}, {\"bbox_2d\": [312, 990, 446, 1213], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_40/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_40/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_40/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the backpack to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1055, 538, 1402, 806], \"image_id\": 0}, {\"bbox_2d\": [1078, 679, 1609, 1120], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_41/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_41/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_41/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the fruit farther from me behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1117, 776, 1313, 838], \"image_id\": 0}, {\"bbox_2d\": [1150, 1152, 1463, 1295], \"image_id\": 1}, {\"bbox_2d\": [765, 1169, 1089, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_42/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_42/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_42/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1430, 263, 2112, 1212], \"image_id\": 0}, {\"bbox_2d\": [524, 285, 871, 759], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_43/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_43/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_43/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [424, 850, 575, 1018], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_44/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_44/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person in front-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1463, 220, 2212, 1197], \"image_id\": 0}, {\"bbox_2d\": [513, 240, 882, 720], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_45/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_45/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_45/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [591, 949, 731, 1066], \"image_id\": 1}, {\"bbox_2d\": [1519, 782, 1614, 1016], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_46/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_46/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_46/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [0, 368, 457, 994], \"image_id\": 1}, {\"bbox_2d\": [1693, 223, 2240, 770], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_47/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_47/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_47/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the handle above me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1558, 238, 1654, 322], \"image_id\": 0}, {\"bbox_2d\": [1810, 307, 1939, 352], \"image_id\": 1}, {\"bbox_2d\": [0, 190, 60, 319], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_48/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_48/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_48/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the handle above me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [759, 266, 843, 333], \"image_id\": 0}, {\"bbox_2d\": [340, 166, 480, 205], \"image_id\": 1}, {\"bbox_2d\": [1754, 99, 2034, 272], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_49/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_49/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_49/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the distant screen in front-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [468, 1219, 977, 1295], \"image_id\": 0}, {\"bbox_2d\": [888, 335, 1145, 519], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_5/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_5/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_5/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the passenger in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [256, 339, 988, 1295], \"image_id\": 0}, {\"bbox_2d\": [1307, 268, 1436, 335], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_50/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_50/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_50/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the apple to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1145, 813, 1229, 886], \"image_id\": 0}, {\"bbox_2d\": [1022, 1133, 1162, 1256], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_51/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_51/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the banana behind-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1150, 748, 1307, 848], \"image_id\": 0}, {\"bbox_2d\": [1184, 1113, 1475, 1295], \"image_id\": 1}, {\"bbox_2d\": [703, 1157, 938, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_52/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_52/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_52/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the seat in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [826, 387, 983, 722], \"image_id\": 0}, {\"bbox_2d\": [0, 960, 519, 1295], \"image_id\": 1}, {\"bbox_2d\": [1067, 346, 1576, 1005], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_53/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_53/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_53/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the seat in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1408, 415, 1793, 1113], \"image_id\": 0}, {\"bbox_2d\": [1933, 934, 2303, 1295], \"image_id\": 1}, {\"bbox_2d\": [329, 388, 826, 1057], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_54/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_54/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_54/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the backpack to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1100, 547, 1430, 910], \"image_id\": 0}, {\"bbox_2d\": [1005, 473, 1458, 925], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_55/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_55/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_55/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [0, 177, 496, 1009], \"image_id\": 0}, {\"bbox_2d\": [1396, 173, 1586, 497], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_56/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_56/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_56/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the overhead handle to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1553, 224, 1637, 291], \"image_id\": 0}, {\"bbox_2d\": [1955, 439, 2101, 529], \"image_id\": 1}, {\"bbox_2d\": [0, 199, 55, 316], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_57/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_57/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_57/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the overhead handle to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [759, 237, 837, 343], \"image_id\": 0}, {\"bbox_2d\": [385, 281, 502, 342], \"image_id\": 1}, {\"bbox_2d\": [1760, 97, 2039, 275], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_58/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_58/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_58/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the seat behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [474, 397, 1061, 899], \"image_id\": 0}, {\"bbox_2d\": [0, 940, 496, 1295], \"image_id\": 1}, {\"bbox_2d\": [1061, 326, 1564, 1018], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_59/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_59/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_59/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the drink bottle behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1156, 975, 1290, 1037], \"image_id\": 0}, {\"bbox_2d\": [1055, 1196, 1313, 1295], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_6/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_6/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_6/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone that appears to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [161, 664, 323, 860], \"image_id\": 1}, {\"bbox_2d\": [1737, 558, 1849, 798], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_60/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_60/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_60/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the computer in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1301, 809, 1665, 1250], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_61/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_61/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the laptop in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [0, 986, 709, 1295], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_62/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_62/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the computer that appears to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1816, 915, 1955, 994], \"image_id\": 1}, {\"bbox_2d\": [173, 810, 301, 1083], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_63/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_63/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_63/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone closest to me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1855, 817, 2000, 934], \"image_id\": 1}, {\"bbox_2d\": [195, 683, 312, 956], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_64/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_64/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_64/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the earphones to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1620, 624, 2028, 1260], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_65/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_65/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_65/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1290, 374, 2168, 1295], \"image_id\": 0}, {\"bbox_2d\": [552, 203, 1005, 711], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_66/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_66/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_66/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the earphones to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1654, 575, 1961, 1033], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_67/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_67/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_67/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water bottle in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [536, 603, 787, 1094], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_68/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_68/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_68/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water bottle behind-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1313, 942, 1430, 1059], \"image_id\": 0}, {\"bbox_2d\": [1374, 1197, 1491, 1295], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_69/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_69/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_69/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the glasses behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [944, 477, 1011, 527], \"image_id\": 0}, {\"bbox_2d\": [552, 501, 776, 618], \"image_id\": 1}, {\"bbox_2d\": [1888, 808, 1955, 897], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_7/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_7/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_7/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water cup to the left of my feet in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1050, 1083, 1162, 1228], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_70/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_70/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_70/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water cup on the ground to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1044, 1083, 1162, 1223], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_71/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_71/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_71/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water cup directly behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1061, 1062, 1162, 1247], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_72/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_72/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_72/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the water cup directly to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [737, 1165, 882, 1282], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_73/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_73/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_73/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the laptop in front of my body in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [38, 1132, 457, 1295], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_74/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_74/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the person to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1575, 309, 2303, 1286], \"image_id\": 0}, {\"bbox_2d\": [608, 199, 910, 629], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_75/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_75/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_75/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the earphones in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1665, 510, 1989, 1052], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_76/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_76/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_76/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the handle directly to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [362, 56, 603, 151], \"image_id\": 0}, {\"bbox_2d\": [1503, 175, 1586, 231], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_77/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_77/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_77/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the handle directly to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1983, 108, 2190, 237], \"image_id\": 0}, {\"bbox_2d\": [547, 48, 636, 115], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_78/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_78/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_78/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the top handle behind-right of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [837, 276, 916, 348], \"image_id\": 0}, {\"bbox_2d\": [1972, 261, 2240, 478], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_79/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_79/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_79/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the seat in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1452, 491, 1760, 905], \"image_id\": 0}, {\"bbox_2d\": [1972, 958, 2303, 1295], \"image_id\": 1}, {\"bbox_2d\": [362, 328, 865, 1009], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_8/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_8/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_8/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone that appears behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1469, 1068, 1575, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_80/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_80/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_80/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car screen behind-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1162, 1092, 1408, 1137], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_81/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_81/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone that appears directly to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [748, 1191, 904, 1258], \"image_id\": 1}, {\"bbox_2d\": [1329, 1074, 1486, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_82/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_82/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_82/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the pillow to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1184, 531, 1346, 653], \"image_id\": 0}, {\"bbox_2d\": [1072, 459, 1324, 672], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_83/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_83/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_83/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the pillow in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1603, 490, 1827, 735], \"image_id\": 0}, {\"bbox_2d\": [1972, 940, 2303, 1295], \"image_id\": 1}, {\"bbox_2d\": [457, 315, 731, 555], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_84/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_84/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_84/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the pillow in front-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1614, 503, 1693, 698], \"image_id\": 0}, {\"bbox_2d\": [2000, 958, 2303, 1295], \"image_id\": 1}, {\"bbox_2d\": [446, 316, 731, 545], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_85/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_85/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_85/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the laptop in front-right of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1100, 463, 1340, 659], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_86/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_86/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the earphones to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1145, 659, 1274, 782], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_87/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_87/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_87/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the pillow behind me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1430, 452, 1609, 592], \"image_id\": 0}, {\"bbox_2d\": [1469, 350, 1749, 562], \"image_id\": 1}, {\"bbox_2d\": [0, 942, 105, 1295], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_88/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_88/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_88/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car roof handle to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [837, 266, 915, 345], \"image_id\": 0}, {\"bbox_2d\": [1978, 274, 2240, 475], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_89/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_89/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_89/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone being held in hand to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1888, 932, 2006, 994], \"image_id\": 1}, {\"bbox_2d\": [150, 793, 273, 1033], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_9/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_9/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_9/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the pillow to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1167, 525, 1340, 653], \"image_id\": 0}, {\"bbox_2d\": [1067, 471, 1340, 677], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_90/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_90/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_90/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car display screen in front-left of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [474, 1221, 1044, 1295], \"image_id\": 0}, {\"bbox_2d\": [893, 344, 1145, 528], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_91/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_91/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_91/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the phone to my right in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [793, 1232, 888, 1295], \"image_id\": 0}, {\"bbox_2d\": [1301, 1170, 1419, 1295], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_92/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_92/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the car window in front-right of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1480, 235, 1693, 586], \"image_id\": 1}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_93/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_93/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the seat pillow in front of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1324, 371, 1620, 622], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_94/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_94/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_94/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the top handle in front-right of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [368, 47, 608, 153], \"image_id\": 0}, {\"bbox_2d\": [1497, 160, 1581, 227], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_95/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_95/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_95/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the passenger in front-right of me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [161, 315, 1240, 1295], \"image_id\": 0}, {\"bbox_2d\": [1033, 301, 1531, 742], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_96/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_96/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_96/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the seat to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1447, 503, 1821, 1150], \"image_id\": 0}, {\"bbox_2d\": [1989, 953, 2303, 1295], \"image_id\": 1}, {\"bbox_2d\": [373, 316, 871, 1020], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_97/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_97/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_97/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the earphones directly to my left in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [1648, 625, 1933, 1072], \"image_id\": 0}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_98/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_98/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_98/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Locate the target described by: the handle above me in these images and output the bbox coordinates in JSON format: {\n\"bbox_2d\": [x1, y1, x2, y2], \"image_id\": 0\n}"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"bboxes\": [{\"bbox_2d\": [385, 71, 597, 171], \"image_id\": 0}, {\"bbox_2d\": [1497, 175, 1581, 242], \"image_id\": 2}]}"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_99/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_99/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_99/inside_3.jpg"
+    ]
+  }
+]

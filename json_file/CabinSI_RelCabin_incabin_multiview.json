@@ -1,0 +1,1703 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the apple? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_0/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_0/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_0/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the tissue paper? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_1/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_1/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_1/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_10/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_10/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car window? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_100/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_100/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water cup? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_101/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_101/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_101/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_11/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_11/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_11/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water cup? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_12/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_12/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_12/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the fruit? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_13/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_13/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_13/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the computer? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_14/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_14/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_14/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the computer? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_15/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_15/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_15/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the sitting person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_16/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_16/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_16/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the sitting person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_17/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_17/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_17/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the umbrella? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_18/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_18/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_18/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_19/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_19/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_19/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the seat? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_2/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_2/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car window? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_20/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_20/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_20/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the power bank? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_22/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_22/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_22/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_23/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_23/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_23/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car window? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_24/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_24/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_24/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car window? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_25/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_25/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_25/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_26/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_26/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_26/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the snacks? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_27/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_27/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_27/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the passenger? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_28/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_28/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_28/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_29/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_29/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_29/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_3/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_3/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_3/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_30/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_30/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_30/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the passenger's phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_31/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_31/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_31/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car window? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_32/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_32/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_32/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water bottle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_33/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_33/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_33/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the earphones? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_34/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_34/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_34/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the backpack? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_35/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_35/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_35/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car window? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_36/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_36/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the fruit? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_37/inside_1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the fruit? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "closest"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_38/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_38/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_38/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the clothes? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_39/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_39/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water cup? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "closest"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_4/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_4/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_4/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the fruit? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_40/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_40/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_40/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the backpack? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_41/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_41/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_41/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the fruit farther from me? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_42/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_42/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_42/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_43/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_43/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_43/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_44/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_44/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_45/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_45/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_45/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_46/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_46/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_46/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_47/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_47/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_47/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the handle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "above"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_48/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_48/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_48/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the handle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "above"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_49/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_49/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_49/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the distant screen? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_5/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_5/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_5/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the passenger? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_50/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_50/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_50/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the apple? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_51/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_51/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the banana? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_52/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_52/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_52/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the seat? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_53/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_53/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_53/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the seat? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_54/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_54/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_54/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the backpack? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_55/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_55/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_55/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car window? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_56/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_56/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_56/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the overhead handle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_57/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_57/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_57/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the overhead handle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_58/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_58/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_58/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the seat? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_59/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_59/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_59/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the drink bottle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_6/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_6/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_6/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone that appears? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_60/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_60/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_60/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the computer? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_61/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_61/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the laptop? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_62/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_62/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the computer that appears? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_63/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_63/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_63/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "closest"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_64/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_64/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_64/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the earphones? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_65/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_65/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_65/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_66/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_66/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_66/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the earphones? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_67/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_67/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_67/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water bottle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_68/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_68/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_68/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water bottle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_69/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_69/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_69/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the glasses? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_7/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_7/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_7/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water cup to the? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_70/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_70/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_70/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water cup on the ground? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_71/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_71/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_71/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water cup directly? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_72/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_72/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_72/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the water cup directly? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_73/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_73/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_73/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the laptop in? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_74/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_74/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the person? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_75/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_75/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_75/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the earphones? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_76/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_76/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_76/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the handle directly? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_77/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_77/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_77/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the handle directly? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_78/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_78/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_78/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the top handle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_79/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_79/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_79/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the seat? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_8/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_8/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_8/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone that appears? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_80/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_80/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_80/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car screen? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_81/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_81/inside_2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone that appears directly? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_82/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_82/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_82/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the pillow? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_83/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_83/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_83/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the pillow? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_84/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_84/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_84/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the pillow? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_85/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_85/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_85/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the laptop? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_86/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_86/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the earphones? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_87/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_87/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_87/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the pillow? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "behind"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_88/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_88/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_88/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car roof handle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_89/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_89/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_89/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone being held in hand? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_9/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_9/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_9/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the pillow? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_90/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_90/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_90/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car display screen? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_91/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_91/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_91/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the phone? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_92/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_92/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the car window? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_93/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_93/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the seat pillow? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_94/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_94/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_94/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the top handle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_95/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_95/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_95/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the passenger? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "front-right"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_96/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_96/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_96/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the seat? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_97/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_97/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_97/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the earphones directly? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "left"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_98/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_98/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_98/inside_3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>from my perspective, which direction is the handle? Answer in one or two words."
+      },
+      {
+        "role": "assistant",
+        "content": "above"
+      }
+    ],
+    "images": [
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_99/inside_1.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_99/inside_2.jpg",
+      "[ROOT_PATH]/CabinSI/CabinSI_final_version/filtered_inside_member_boxed/filtered_inside_99/inside_3.jpg"
+    ]
+  }
+]
